@@ -106,6 +106,6 @@ const animal = [
         furColor: "Orange"
     }
 ]
-for (let i = 0; i < animal.length; i++){ // This explore my animal's array and console.log just thei name ad species
+for (let i = 0; i < animal.length; i++){ // This explore my animal's array and console.log just their name ad species
     console.log(animal[i].name, animal[i].species)
 }
